@@ -1,0 +1,426 @@
+﻿@media(min-width : 240px) {
+          .product-image {
+                width: 100px;
+                height: 100px;
+                margin-top: 14px;
+            }
+            .product-header {
+                width: 100px;
+                height: 100px;
+                font-size:smaller;
+            }
+            .rate
+            {
+                font-family: Helvetica,sans-serif;
+                margin:10px 0px 0px 25px;
+                font-weight: 400; 
+                color: black;
+                font-size:smaller;
+            }
+            .product-title1{
+                margin:2px 0px 0px 25px;
+                font-size:xx-small;
+            }
+            .product-title2{
+                margin:2px 0px 0px 25px;
+                font-size:xx-small;
+            }
+            .product-title3{
+                margin:2px 0px 0px 25px;
+                font-size:xx-small;
+            }
+            .product-title4{
+                margin:2px 0px 0px 25px;
+                font-size:xx-small;
+            }
+        .textclass{
+                width:25px; 
+                display:inline-block;
+                float:left;
+                font-family: Helvetica, sans-serif;
+                font-style: normal;
+                font-size:smaller;
+                color: white;
+                height: 20px;
+                border: 1px solid #808080;
+                background-color:#808080;
+                text-align: center; 
+                margin-top:7px;
+
+            }
+            
+           .minusbutton{
+                   height:20px;
+                   width:20px;
+                   font-size:x-small;
+                   margin-top:7px;
+                   border-radius:0px;
+                   padding:0px;
+           }
+            .minus{
+                font-size:1em;
+                color:white;
+                padding:0px;
+                align-content:center;
+            }
+            .plus{
+                font-size:1em;
+                color:white;
+                padding:0px;
+                align-content:center;
+            }
+            .plusbutton{
+                background-color: rgba(68, 157, 68, 0.59);
+                border-color: rgba(68, 157, 68, 0.59);
+                height:20px;
+                width:20px;
+                font-size:x-small;
+                margin-top:7px;
+                border-radius:0px;
+                padding:0px;
+            }
+
+}
+
+@media(min-width : 320px) {
+          .product-image {
+                width: 100px;
+                height: 100px;
+                margin-top: 14px;
+            }
+            .product-header {
+                width: 100px;
+                height: 100px;
+                font-size:smaller;
+            }
+            .rate
+            {
+                font-family: Helvetica,sans-serif;
+                margin:10px 0px 0px 25px;
+                font-weight: 400; 
+                color: black;
+                font-size:smaller;
+            }
+            .product-title1{
+                margin:2px 0px 0px 25px;
+                font-size:xx-small;
+            }
+            .product-title2{
+                margin:2px 0px 0px 25px;
+                font-size:xx-small;
+            }
+            .product-title3{
+                margin:2px 0px 0px 25px;
+                font-size:xx-small;
+            }
+            .product-title4{
+                margin:2px 0px 0px 25px;
+                font-size:xx-small;
+            }
+        .textclass{
+                width:25px; 
+                display:inline-block;
+                float:left;
+                font-family: Helvetica, sans-serif;
+                font-style: normal;
+                font-size:smaller;
+                color: white;
+                height: 20px;
+                border: 1px solid #808080;
+                background-color:#808080;
+                text-align: center; 
+                margin-top:7px;
+
+            }
+            
+           .minusbutton{
+                   height:20px;
+                   width:20px;
+                   font-size:x-small;
+                   margin-top:7px;
+                   margin-left:38px;
+                   border-radius:0px;
+                   padding:0px;
+           }
+            .minus{
+                font-size:1em;
+                color:white;
+                padding:0px;
+                align-content:center;
+            }
+            .plus{
+                font-size:1em;
+                color:white;
+                padding:0px;
+                align-content:center;
+            }
+            .plusbutton{
+                background-color: rgba(68, 157, 68, 0.59);
+                border-color: rgba(68, 157, 68, 0.59);
+                height:20px;
+                width:20px;
+                font-size:x-small;
+                margin-top:7px;
+                border-radius:0px;
+                padding:0px;
+            }
+
+}
+    
+
+  /* xs- Extra Small Devices, Phones */ 
+ @media(min-width : 480px) {
+          .product-image {
+                width: 100px;
+                height: 100px;
+                margin-top: 14px;
+            }
+            .product-header {
+                width: 100px;
+                height: 100px;
+                font-size:smaller;
+            }
+            .rate
+            {
+                font-family: Helvetica,sans-serif;
+                margin:10px 0px 0px 25px;
+                font-weight: 400; 
+                color: black;
+                font-size:smaller;
+            }
+            .product-title1{
+                margin:2px 0px 0px 25px;
+                font-size:small;
+            }
+            .product-title2{
+                margin:2px 0px 0px 25px;
+                font-size:small;
+            }
+            .product-title3{
+                margin:2px 0px 0px 25px;
+                font-size:small;
+            }
+            .product-title4{
+                margin:2px 0px 0px 25px;
+                font-size:small;
+            }
+        .textclass{
+                width:25px; 
+                display:inline-block;
+                float:left;
+                font-family: Helvetica, sans-serif;
+                font-style: normal;
+                font-size:smaller;
+                color: white;
+                height: 20px;
+                border: 1px solid #808080;
+                background-color:#808080;
+                text-align: center; 
+                margin-top:7px;
+
+            }
+
+           .minusbutton{
+                   height:20px;
+                   width:20px;
+                   font-size:x-small;
+                   margin-top:7px;
+                   border-radius:0px;
+                   padding:0px;
+           }
+            .minus{
+                font-size:.2em;
+                color:white;
+                padding:0px;
+                align-content:center;
+            }
+            .plus{
+                font-size:.2em;
+                color:white;
+                padding:0px;
+                align-content:center;
+            }
+            .plusbutton{
+                background-color: rgba(68, 157, 68, 0.59);
+                border-color: rgba(68, 157, 68, 0.59);
+                height:20px;
+                width:20px;
+                font-size:x-small;
+                margin-top:7px;
+                border-radius:0px;
+                padding:0px;
+            }
+
+}
+   
+    }
+
+
+
+
+ /* sm - Small Devices, Tablets */
+
+@media(min-width:768px)
+{
+      .product-image {
+                width: 100px;
+                height: 100px;
+                margin-top: 10px;
+            }
+    .rate{
+        font-family: Helvetica,sans-serif;
+         margin:10px 0px 0px 25px;
+         font-weight: 600;
+          color: black;
+    }
+            .product-header {
+                width: 100px;
+                height: 100px;
+            }
+            .product-title1{
+                margin:2px 0px 0px 25px;
+                font-size:smaller;
+            }
+            .product-title2{
+                margin:2px 0px 0px 25px;
+                font-size:smaller;
+            }
+            .product-title3{
+                margin:2px 0px 0px 25px;
+                font-size:smaller;
+            }
+            .product-title4{
+                margin:2px 0px 0px 25px;
+                font-size:smaller;
+            }
+        .textclass{
+                width:35px; 
+                display:inline-block;
+                float:left;
+                font-family: Helvetica, sans-serif;
+                font-style: normal;
+                color: white;
+                height: 27px;
+                border: 1px solid #808080;
+                background-color:#808080;
+                text-align: center; 
+                margin-top:5.1px;
+
+            }
+            
+           .minusbutton{
+                   height:auto;
+                   font-size:x-small;
+                   margin-top:5px;
+                   
+            }
+            .minus{
+                font-size:1em;
+                color:white;
+                padding:0;
+            }
+            .plus{
+                font-size:1em;
+                color:white;
+                padding:0;
+            }
+            .plusbutton{
+                background-color: rgba(68, 157, 68, 0.59);
+                border-color: rgba(68, 157, 68, 0.59);
+                height:auto;
+                font-size:x-small;
+                margin-top:5px;
+               
+            }
+           
+}
+ }
+
+
+  /* md - Medium Devices, Desktops */
+
+@media(min-width:992px)
+{     .product-image {
+                width: 100px;
+                height: 100px;
+                margin-top: 10px;
+            }
+            .product-header {
+                width: 100px;
+                height: 100px;
+            }
+            .product-title1{
+                margin:2px 0px 0px 25px;
+                font-size:smaller;
+            }
+            .product-title2{
+                margin:2px 0px 0px 25px;
+                font-size:smaller;
+            }
+            .product-title3{
+                margin:2px 0px 0px 25px;
+                font-size:smaller;
+            }
+            .product-title4{
+                margin:2px 0px 0px 25px;
+                font-size:smaller;
+            }
+        .textclass{
+                width:35px; 
+                display:inline-block;
+                float:left;
+                font-family: Helvetica, sans-serif;
+                font-style: normal;
+                color: white;
+                height: 27px;
+                border: 1px solid #808080;
+                background-color:#808080;
+                text-align: center; 
+                margin-top:5.1px;
+
+            }
+            .addcartbutton{
+                color: rgb(60, 54, 56);
+                font-family: Helvetica,sans-serif;
+                font-weight: 600;
+                background: rgb(255, 215, 109) none repeat scroll 0% 0%;
+                font-size: smaller;
+                margin-left: -30px;
+                margin-top:25px;
+                border-color: rgb(255, 215, 109);
+            }
+           .minusbutton{
+                   height:auto;
+                   font-size:x-small;
+                   margin-top:5px;
+                   border-top-left-radius:7px;
+                   border-bottom-left-radius:7px;
+            }
+            .minus{
+                font-size:1em;
+                color:white;
+                padding:0;
+            }
+            .plus{
+                font-size:1em;
+                color:white;
+                padding:0;
+            }
+            .plusbutton{
+                background-color: rgba(68, 157, 68, 0.59);
+                border-color: rgba(68, 157, 68, 0.59);
+                height:auto;
+                font-size:x-small;
+                margin-top:5px;
+                border-top-right-radius:7px;
+                border-bottom-right-radius:7px;
+            }
+}
+}
+
+
+  /* lg- Large Devices, Wide Screens */
+
+@media(min-width:1200px)
+{
+     }
