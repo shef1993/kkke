@@ -339,13 +339,8 @@
 
   /* md - Medium Devices, Desktops */
 
-@media(min-width:992px){}
-.line{
-      width:auto;
-      border: 5px solid;
-
-}
-     .product-image {
+@media(min-width:992px)
+{     .product-image {
                 width: 100px;
                 height: 100px;
                 margin-top: 10px;
